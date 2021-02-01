@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WakeIt</string>
+    <string name="syncing_notification_title">Wecker wird gestellt</string>
+    <string name="syncing_notification_content">Wecker wird gestellt</string>
+    <string name="default_channel_name">Standardkanal</string>
+    <string name="default_channel_description">Standardkanal für WakeIt</string>
+</resources>
